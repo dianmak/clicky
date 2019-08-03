@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/clicky/static/css/main.012e31d5.chunk.css",
+    "main.js": "/clicky/static/js/main.6c4e0e6c.chunk.js",
+    "main.js.map": "/clicky/static/js/main.6c4e0e6c.chunk.js.map",
+    "runtime~main.js": "/clicky/static/js/runtime~main.c6956f21.js",
+    "runtime~main.js.map": "/clicky/static/js/runtime~main.c6956f21.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/clicky/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/clicky/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/clicky/index.html",
+    "precache-manifest.bc05e3ba32ad6d5a23f6dac1862b5c8f.js": "/clicky/precache-manifest.bc05e3ba32ad6d5a23f6dac1862b5c8f.js",
+    "service-worker.js": "/clicky/service-worker.js",
+    "static/css/main.012e31d5.chunk.css.map": "/clicky/static/css/main.012e31d5.chunk.css.map",
+    "static/media/bubblegum.png": "/clicky/static/media/bubblegum.55e553ef.png",
+    "static/media/gingerbread.png": "/clicky/static/media/gingerbread.cd5456e4.png",
+    "static/media/iceking.png": "/clicky/static/media/iceking.a2dcf1fc.png",
+    "static/media/jake.png": "/clicky/static/media/jake.0c3b4862.png",
+    "static/media/lemongrab.png": "/clicky/static/media/lemongrab.2b9cdbdb.png",
+    "static/media/lich.png": "/clicky/static/media/lich.acf18dc2.png",
+    "static/media/lsp.png": "/clicky/static/media/lsp.09d4c347.png",
+    "static/media/marceline.png": "/clicky/static/media/marceline.59e9acbd.png",
+    "static/media/rainicorn.png": "/clicky/static/media/rainicorn.ef584cd0.png",
+    "static/media/treetrunks.png": "/clicky/static/media/treetrunks.1588e3bf.png"
+  }
+}
